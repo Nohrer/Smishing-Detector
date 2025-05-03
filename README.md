@@ -1,8 +1,14 @@
 # Smishing-Detector
+python version used 3.11.9
+
+you should have version below 3.12 to install tensorflow
+
 first
 ```cd smishing_detector```
+
 then
 ```pip install requirements.txt```
+
 to run the server
 ```python manage.py runserver```
 
