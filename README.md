@@ -1,3 +1,4 @@
 # Smishing-Detector
 first
-```pip install requirements.txt```python
+
+```pip install requirements.txt```
