@@ -13,6 +13,7 @@ to run the server
 ```python manage.py runserver```
 
 
+in requirments there is a library could Twilio that I didn't implement it yet, it is used like a whatssap api so we can track irl messages
 
 
 📄 Project Report: Spam Detection Using TensorFlow and Deep Learning
